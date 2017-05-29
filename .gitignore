@@ -1,0 +1,6 @@
+.DS_Store
+*.pyc
+assignment1/*.pyc
+assignment1/.DS_Store
+assignment1/utils/datasets/*
+
